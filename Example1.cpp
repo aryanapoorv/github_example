@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
 
-cout<<"Hello Vegeta\n";
+cout<<"Hello goku\n";
 
 }
